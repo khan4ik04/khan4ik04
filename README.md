@@ -1,18 +1,6 @@
-[README.md](https://github.com/user-attachments/files/32713837/README.md)
 <!-- Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:2ea043&height=200&section=header&text=Hi%2C%20I'm%20Andrey%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20%40%20Kwangwoon%20University%20·%20Seoul&descAlignY=58&descSize=18" />
-</p>
-
-<!-- Typing greeting -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=2EA043&center=true&vCenter=true&width=600&lines=Привет!+Я+Андрей+👋;안녕하세요!+저는+안드레이입니다+🇰🇷;Hello!+Welcome+to+my+GitHub+✨;Building+apps+%26+joining+hackathons+🚀" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khan4ik04&color=2ea043&style=flat-square&label=Profile+views" />
 </p>
 
 ---
@@ -21,6 +9,7 @@
 
 - 🎓 Studying at **Kwangwoon University** (광운대학교)
 - 📍 Based in **Seoul, South Korea**
+- 🏆 Recently built **22 Nowon Helper** at **KW Hackathon 2026**
 - 🌱 Currently learning new things every day
 - 🗣️ Speaking Russian · Korean · English
 - ⚡ Pronouns: he/him
